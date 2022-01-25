@@ -1,0 +1,19 @@
+
+body{
+    background-color: black;
+    font-family: monospace;
+}
+h1{
+    text-align: center;
+    color:white;
+    margin: 10mm;
+    margin-top: 0mm;
+    margin-bottom: 0mm;
+}
+h2{
+    font-family: monospace;
+    text-align: center;
+    color: white;
+    margin-top: -0mm;
+}
+
